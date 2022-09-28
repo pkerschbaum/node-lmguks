@@ -1,0 +1,11 @@
+{
+  "name": "node-starter",
+  "type": "module",
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "tiny-invariant": "^1.3.0",
+    "typescript": "^4.8.3"
+  }
+}
